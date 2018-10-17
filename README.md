@@ -10,6 +10,8 @@ This tutorial is a mix of those two links:
 Ref: https://www.javainuse.com/spring/cloud-data-flow
 Ref: https://www.e4developer.com/2018/02/18/getting-started-with-spring-cloud-data-flow/
 
+Is also inspired massively by (this presentation from the SCDF lead developer)[https://www.slideshare.net/Pivotal/orchestrating-data-microservices-with-spring-cloud-data-flow].
+
 My working directory where this repo has been cloned into:
     cd ~/datashare/dev/java/training/spring-cloud-data-flow-example/spring
 
