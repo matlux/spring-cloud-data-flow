@@ -18,11 +18,13 @@ My working directory where this repo has been cloned into:
 ## Database install
 
 Install MySQL docker
+
     docker run --name dataflow-mysql -e MYSQL_ROOT_PASSWORD=dataflow -e MYSQL_DATABASE=scdf -p 3306:3306 -d mysql:5.7
 
 ## Message Bus install
 
 Install RabbitMQ with docker
+
     docker run --name dataflow-rabbit -p 15672:15672 -p 5672:5672 -d rabbitmq:3-management
 
 Access RabbitMQ UI from my laptop:
