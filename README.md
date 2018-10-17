@@ -10,7 +10,7 @@ This tutorial is a mix of those two links:
 Ref: https://www.javainuse.com/spring/cloud-data-flow
 Ref: https://www.e4developer.com/2018/02/18/getting-started-with-spring-cloud-data-flow/
 
-Is also inspired massively by (this presentation from the SCDF lead developer)[https://www.slideshare.net/Pivotal/orchestrating-data-microservices-with-spring-cloud-data-flow].
+Is also inspired massively by [this presentation from the SCDF lead developer](https://www.slideshare.net/Pivotal/orchestrating-data-microservices-with-spring-cloud-data-flow).
 
 My working directory where this repo has been cloned into:
     cd ~/datashare/dev/java/training/spring-cloud-data-flow-example/spring
@@ -102,7 +102,7 @@ stream deploy --name log-data
     http://repo.spring.io/libs-release/org/springframework/cloud/stream/app/spring-cloud-stream-app-descriptor/Celsius.SR1/spring-cloud-stream-app-descriptor-Celsius.SR1.stream-apps-rabbit-maven
 
 
-Notes:  the equivalent link for Kafka can be found (here)[http://repo.spring.io/libs-release/org/springframework/cloud/stream/app/spring-cloud-stream-app-descriptor/Celsius.SR1/spring-cloud-stream-app-descriptor-Celsius.SR1.stream-apps-kafka-10-maven]
+Notes:  the equivalent link for Kafka can be found [here](http://repo.spring.io/libs-release/org/springframework/cloud/stream/app/spring-cloud-stream-app-descriptor/Celsius.SR1/spring-cloud-stream-app-descriptor-Celsius.SR1.stream-apps-kafka-10-maven)
 
 
 ## Example of a SCDF starter example
